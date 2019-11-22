@@ -1,0 +1,15 @@
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.IBll\bin\Debug\Iverzer.IBll.dll.config
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.IBll\bin\Debug\Iverzer.IBll.dll
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.IBll\bin\Debug\Iverzer.IBll.pdb
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.IBll\bin\Debug\EntityFramework.dll
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.IBll\bin\Debug\EntityFramework.SqlServer.dll
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.IBll\bin\Debug\Iverzer.IDal.dll
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.IBll\bin\Debug\Iverzer.Model.dll
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.IBll\bin\Debug\Iverzer.IDal.pdb
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.IBll\bin\Debug\Iverzer.Model.pdb
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.IBll\bin\Debug\EntityFramework.xml
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.IBll\bin\Debug\EntityFramework.SqlServer.xml
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.IBll\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.IBll\obj\Debug\Iverzer.IBll.csprojResolveAssemblyReference.cache
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.IBll\obj\Debug\Iverzer.IBll.dll
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.IBll\obj\Debug\Iverzer.IBll.pdb

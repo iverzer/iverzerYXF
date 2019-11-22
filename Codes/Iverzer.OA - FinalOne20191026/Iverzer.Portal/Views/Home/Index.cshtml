@@ -1,0 +1,28 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/scripts/jquery-1.10.2.min.js"></script>
+    <script>
+        $(function(){
+            $("#ff").click(function(){
+                $.post("/Home/Add", {}, function (data) {
+                    console.log(data);
+                })
+            })
+        })
+    </script>
+</head>
+<body>
+    <div> 
+        <span id="ff">我的首页</span>
+    </div>
+</body>
+</html>

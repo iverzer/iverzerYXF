@@ -1,0 +1,10 @@
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.Model\bin\Debug\Iverzer.Model.dll.config
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.Model\bin\Debug\Iverzer.Model.dll
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.Model\bin\Debug\Iverzer.Model.pdb
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.Model\bin\Debug\EntityFramework.dll
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.Model\bin\Debug\EntityFramework.xml
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.Model\obj\Debug\Iverzer.Model.dll
+E:\我的复习项目20190818\Iverzer.OA\Iverzer.Model\obj\Debug\Iverzer.Model.pdb

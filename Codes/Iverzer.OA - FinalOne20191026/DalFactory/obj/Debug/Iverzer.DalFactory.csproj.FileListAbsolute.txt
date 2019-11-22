@@ -1,0 +1,17 @@
+E:\我的复习项目20190818\Iverzer.OA\DalFactory\bin\Debug\DalFactory.dll.config
+E:\我的复习项目20190818\Iverzer.OA\DalFactory\bin\Debug\DalFactory.dll
+E:\我的复习项目20190818\Iverzer.OA\DalFactory\bin\Debug\DalFactory.pdb
+E:\我的复习项目20190818\Iverzer.OA\DalFactory\bin\Debug\EntityFramework.dll
+E:\我的复习项目20190818\Iverzer.OA\DalFactory\bin\Debug\EntityFramework.SqlServer.dll
+E:\我的复习项目20190818\Iverzer.OA\DalFactory\bin\Debug\Iverzer.Dal.dll
+E:\我的复习项目20190818\Iverzer.OA\DalFactory\bin\Debug\Iverzer.IDal.dll
+E:\我的复习项目20190818\Iverzer.OA\DalFactory\bin\Debug\Iverzer.Model.dll
+E:\我的复习项目20190818\Iverzer.OA\DalFactory\bin\Debug\Iverzer.Dal.pdb
+E:\我的复习项目20190818\Iverzer.OA\DalFactory\bin\Debug\Iverzer.IDal.pdb
+E:\我的复习项目20190818\Iverzer.OA\DalFactory\bin\Debug\Iverzer.Model.pdb
+E:\我的复习项目20190818\Iverzer.OA\DalFactory\bin\Debug\EntityFramework.xml
+E:\我的复习项目20190818\Iverzer.OA\DalFactory\bin\Debug\EntityFramework.SqlServer.xml
+E:\我的复习项目20190818\Iverzer.OA\DalFactory\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\我的复习项目20190818\Iverzer.OA\DalFactory\obj\Debug\Iverzer.DalFactory.csprojResolveAssemblyReference.cache
+E:\我的复习项目20190818\Iverzer.OA\DalFactory\obj\Debug\DalFactory.dll
+E:\我的复习项目20190818\Iverzer.OA\DalFactory\obj\Debug\DalFactory.pdb
